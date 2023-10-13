@@ -33,16 +33,16 @@
 
 1. 複製這個存放庫：
 
-git clone https://github.com/jiun264/monopoly-game.git
+  git clone https://github.com/jiun264/monopoly-game.git
 
 2. 進入專案目錄：
 
-cd monopoly-game
+  cd monopoly-game
 
 
 3. 開始遊戲：
 
-python monopoly.py
+  python monopoly.py
 
 ## 遊玩方式
 
